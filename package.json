@@ -1,0 +1,22 @@
+{
+  "name": "typescript-refresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomarnogueiracoding/typescript-refresher.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tomarnogueiracoding/typescript-refresher/issues"
+  },
+  "homepage": "https://github.com/tomarnogueiracoding/typescript-refresher#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
